@@ -1,7 +1,7 @@
 <h2 align="center">obscurity</h2>
 <a href="https://github.com/x6r">
   <div align="center">
-    <img src="https://img.shields.io/badge/made%20with-love-pink?style=for-the-badge&color=a57562&logo=Spreadshirt&logoColor=white" alt="made with love">
+    <img src="https://img.shields.io/badge/made%20with-love-pink?style=for-the-badge&color=a57562&logo=Spreadshirt&logoColor=f8f8f0&labelColor=262626" alt="made with love">
   </div>
 </a>
 
