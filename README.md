@@ -1,7 +1,7 @@
 <h2 align="center">obscurity</h2>
 <a href="https://github.com/x6r">
   <div align="center">
-    <a href="https://github.com/x6r?tab=followers"><img src="https://img.shields.io/github/followers/x6r?style=for-the-badge&color=a57562&logo=github&logoColor=f8f8f0&labelColor=262626" alt="made with love">
+    <a href="https://github.com/x6r?tab=followers"><img src="https://img.shields.io/github/followers/x6r?style=for-the-badge&color=a57562&logo=github&logoColor=f8f8f0&labelColor=262626" alt="x6r's followers">
   </div>
 </a>
 
